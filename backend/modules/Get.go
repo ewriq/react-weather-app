@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 )
 
-const key = "1d9d6a886ca3042475520aeff6c433dc"
+const key = "token"
 
 type Main struct {
 	Temperature float64 `json:"temp"`
